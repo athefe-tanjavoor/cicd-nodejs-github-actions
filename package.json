@@ -1,0 +1,15 @@
+{
+  "name": "cicd-nodejs-github-actions",
+  "version": "1.0.0",
+  "description": "Node.js app with CI/CD deployment to AWS EC2 using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
